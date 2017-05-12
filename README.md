@@ -1,2 +1,6 @@
 # hello-world
-Walking Through Tutorial
+
+I'm rlscudder.  New to GitHub.
+Interested in big-data analysis and visualization.
+My day job is mowing.
+
