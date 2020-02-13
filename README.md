@@ -1,6 +1,5 @@
 # hello-world
 
-I'm rlscudder.  New to GitHub.
-Interested in big-data analysis and visualization.
+I'm rlscudder.  I'm learning how
+to use GitHub.
 My day job is mowing.
-
